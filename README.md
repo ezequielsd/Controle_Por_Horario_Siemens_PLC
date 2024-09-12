@@ -16,7 +16,7 @@ Elaborado por Ezequiel da Silva Daniel
 
 ## Apresentação
 
-Se você precisa realizar o acionamento e desacionamento agendado por hora e dia da semana, então essa FC é para você. Basta ligar o dia que deseja que seja acionado e informar a hora e minuto para ligar e hora e minuto para desligar e pronto.
+Se você precisa realizar o acionamento e desacionamento agendado por hora e dia da semana, então essa FC é para você. Basta ativar o dia que deseja que seja acionado e informar a hora e minuto para ligar e hora e minuto para desligar e pronto.
 
 
 ## Requisitos
